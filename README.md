@@ -12,7 +12,11 @@ cd FlappyBird
 
 
 Make sure python is installed or install it from [here](https://www.python.org/downloads/)
+
+
+
 Install the pygame library 
+
 
 using pip
 ``` pip install pygame```
