@@ -19,12 +19,18 @@ Install the pygame library
 
 
 using pip
+
+
 ``` pip install pygame```
 
 using conda
+
+
 ```conda install pygame```
 
 Execute the main file
+
+
 ```python main.py```
 
 
