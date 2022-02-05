@@ -6,6 +6,16 @@ Code is from [this](https://www.youtube.com/watch?v=itB6VsP5UnA&ab_channel=CodeW
 Clone this repository
 
 ```git clone https://github.com/shrekfanboi/FlappyBird
-cd FlappyBird```
+cd FlappyBird
+```
 
-then
+Install the pygame library 
+
+using pip
+``` pip install pygame```
+
+using conda
+```conda install pygame```
+
+Execute the main file
+```python main.py```
