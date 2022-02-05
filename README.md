@@ -5,7 +5,9 @@ Code is from [this](https://www.youtube.com/watch?v=itB6VsP5UnA&ab_channel=CodeW
 
 Clone this repository
 
-```git clone https://github.com/shrekfanboi/FlappyBird
+```
+
+git clone https://github.com/shrekfanboi/FlappyBird
 cd FlappyBird
 ```
 
