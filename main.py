@@ -1,6 +1,6 @@
 import random
 import pygame,sys
-from pygame.locals import QUIT,KEYDOWN,K_UP,K_SPACE,K_ESCAPE
+from pygame.locals import *
 
 #Global Variables
 FPS= 32
