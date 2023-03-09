@@ -15,23 +15,12 @@ Make sure python is installed or install it from [here](https://www.python.org/d
 
 
 
-Install the pygame library 
+Install the required libraries 
 
 
-using pip
 
+``` pip install -r requirements.txt```
 
-``` pip install pygame```
-
-using conda
-
-
-```conda install pygame```
-
-Execute the main file
-
-
-```python main.py```
 
 
 > Code is from [this](https://www.youtube.com/watch?v=itB6VsP5UnA&ab_channel=CodeWithHarry) tutorial video
